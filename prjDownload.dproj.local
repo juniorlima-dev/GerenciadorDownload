@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/28 15:41:45.000.419,=C:\Users\PAT53890\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/29 16:05:15.102,=C:\Users\PAT53890\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/29 16:06:33.351,D:\projetos\GerenciadorDownload\frmPrincipal.pas=C:\Users\PAT53890\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/29 16:06:33.351,D:\projetos\GerenciadorDownload\frmPrincipal.dfm=C:\Users\PAT53890\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/29 16:06:55.584,D:\projetos\GerenciadorDownload\prjDownload.dproj=C:\Users\PAT53890\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/05/29 17:14:33.342,=D:\projetos\GerenciadorDownload\Unit1.pas</Transaction>
+    <Transaction>2022/05/29 17:14:57.544,D:\projetos\GerenciadorDownload\Model\Model.Base.pas=D:\projetos\GerenciadorDownload\Unit1.pas</Transaction>
+    <Transaction>2022/05/29 17:16:27.348,=D:\projetos\GerenciadorDownload\Unit1.pas</Transaction>
+    <Transaction>2022/05/29 17:16:39.960,D:\projetos\GerenciadorDownload\Model.Download.pas=D:\projetos\GerenciadorDownload\Unit1.pas</Transaction>
+    <Transaction>2022/05/29 17:23:00.811,=D:\projetos\GerenciadorDownload\Unit1.pas</Transaction>
+    <Transaction>2022/05/29 17:23:51.373,D:\projetos\GerenciadorDownload\Controller\controller.Dowload.pas=D:\projetos\GerenciadorDownload\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
