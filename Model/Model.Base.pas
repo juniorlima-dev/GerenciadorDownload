@@ -1,7 +1,5 @@
 unit Model.Base;
 
-unit Model.Base;
-
 interface
 
  uses
@@ -9,7 +7,7 @@ interface
 
 type
 
-  TState = (stNew, stDownloading, stBrowser);
+  TState = (stNew, stDownloading, stCancel, stBrowser);
 
   TBaseModel = class; //forword
 

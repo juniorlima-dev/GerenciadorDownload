@@ -31,8 +31,6 @@ object Form1: TForm1
     BevelOuter = bvNone
     BorderStyle = bsNone
     TabOrder = 1
-    ExplicitTop = 73
-    ExplicitHeight = 371
     object pnlItem: TPanel
       AlignWithMargins = True
       Left = 3
@@ -58,9 +56,6 @@ object Form1: TForm1
         Align = alLeft
         Caption = 'Iniciar Download'
         TabOrder = 0
-        ExplicitLeft = -18
-        ExplicitTop = 16
-        ExplicitHeight = 30
       end
       object pb1: TProgressBar
         AlignWithMargins = True
@@ -74,8 +69,6 @@ object Form1: TForm1
         Margins.Bottom = 0
         Align = alRight
         TabOrder = 1
-        ExplicitLeft = 362
-        ExplicitHeight = 30
       end
       object btnParar: TButton
         AlignWithMargins = True
@@ -90,9 +83,6 @@ object Form1: TForm1
         Align = alLeft
         Caption = 'Parar Download'
         TabOrder = 2
-        ExplicitLeft = 99
-        ExplicitTop = 0
-        ExplicitHeight = 30
       end
       object btnMsg: TButton
         AlignWithMargins = True
@@ -107,9 +97,6 @@ object Form1: TForm1
         Align = alLeft
         Caption = 'Exibir Mensagem'
         TabOrder = 3
-        ExplicitLeft = 192
-        ExplicitTop = 0
-        ExplicitHeight = 30
       end
       object edtLink: TEdit
         AlignWithMargins = True
@@ -124,6 +111,7 @@ object Form1: TForm1
         Align = alLeft
         TabOrder = 4
         Text = 'edtLink'
+        ExplicitHeight = 21
       end
     end
   end
